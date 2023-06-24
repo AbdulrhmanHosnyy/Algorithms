@@ -1,0 +1,15 @@
+E:\Studies\Projects\CppProjects\QuickSort\QuickSort\bin\Debug\net6.0\QuickSort.exe
+E:\Studies\Projects\CppProjects\QuickSort\QuickSort\bin\Debug\net6.0\QuickSort.deps.json
+E:\Studies\Projects\CppProjects\QuickSort\QuickSort\bin\Debug\net6.0\QuickSort.runtimeconfig.json
+E:\Studies\Projects\CppProjects\QuickSort\QuickSort\bin\Debug\net6.0\QuickSort.dll
+E:\Studies\Projects\CppProjects\QuickSort\QuickSort\bin\Debug\net6.0\QuickSort.pdb
+E:\Studies\Projects\CppProjects\QuickSort\QuickSort\obj\Debug\net6.0\QuickSort.csproj.AssemblyReference.cache
+E:\Studies\Projects\CppProjects\QuickSort\QuickSort\obj\Debug\net6.0\QuickSort.GeneratedMSBuildEditorConfig.editorconfig
+E:\Studies\Projects\CppProjects\QuickSort\QuickSort\obj\Debug\net6.0\QuickSort.AssemblyInfoInputs.cache
+E:\Studies\Projects\CppProjects\QuickSort\QuickSort\obj\Debug\net6.0\QuickSort.AssemblyInfo.cs
+E:\Studies\Projects\CppProjects\QuickSort\QuickSort\obj\Debug\net6.0\QuickSort.csproj.CoreCompileInputs.cache
+E:\Studies\Projects\CppProjects\QuickSort\QuickSort\obj\Debug\net6.0\QuickSort.dll
+E:\Studies\Projects\CppProjects\QuickSort\QuickSort\obj\Debug\net6.0\refint\QuickSort.dll
+E:\Studies\Projects\CppProjects\QuickSort\QuickSort\obj\Debug\net6.0\QuickSort.pdb
+E:\Studies\Projects\CppProjects\QuickSort\QuickSort\obj\Debug\net6.0\QuickSort.genruntimeconfig.cache
+E:\Studies\Projects\CppProjects\QuickSort\QuickSort\obj\Debug\net6.0\ref\QuickSort.dll

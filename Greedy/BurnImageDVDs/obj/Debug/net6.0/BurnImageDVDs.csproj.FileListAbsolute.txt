@@ -1,0 +1,15 @@
+E:\Studies\Projects\CppProjects\Greedy\BurnImageDVDs\bin\Debug\net6.0\BurnImageDVDs.exe
+E:\Studies\Projects\CppProjects\Greedy\BurnImageDVDs\bin\Debug\net6.0\BurnImageDVDs.deps.json
+E:\Studies\Projects\CppProjects\Greedy\BurnImageDVDs\bin\Debug\net6.0\BurnImageDVDs.runtimeconfig.json
+E:\Studies\Projects\CppProjects\Greedy\BurnImageDVDs\bin\Debug\net6.0\BurnImageDVDs.dll
+E:\Studies\Projects\CppProjects\Greedy\BurnImageDVDs\bin\Debug\net6.0\BurnImageDVDs.pdb
+E:\Studies\Projects\CppProjects\Greedy\BurnImageDVDs\obj\Debug\net6.0\BurnImageDVDs.csproj.AssemblyReference.cache
+E:\Studies\Projects\CppProjects\Greedy\BurnImageDVDs\obj\Debug\net6.0\BurnImageDVDs.GeneratedMSBuildEditorConfig.editorconfig
+E:\Studies\Projects\CppProjects\Greedy\BurnImageDVDs\obj\Debug\net6.0\BurnImageDVDs.AssemblyInfoInputs.cache
+E:\Studies\Projects\CppProjects\Greedy\BurnImageDVDs\obj\Debug\net6.0\BurnImageDVDs.AssemblyInfo.cs
+E:\Studies\Projects\CppProjects\Greedy\BurnImageDVDs\obj\Debug\net6.0\BurnImageDVDs.csproj.CoreCompileInputs.cache
+E:\Studies\Projects\CppProjects\Greedy\BurnImageDVDs\obj\Debug\net6.0\BurnImageDVDs.dll
+E:\Studies\Projects\CppProjects\Greedy\BurnImageDVDs\obj\Debug\net6.0\refint\BurnImageDVDs.dll
+E:\Studies\Projects\CppProjects\Greedy\BurnImageDVDs\obj\Debug\net6.0\BurnImageDVDs.pdb
+E:\Studies\Projects\CppProjects\Greedy\BurnImageDVDs\obj\Debug\net6.0\BurnImageDVDs.genruntimeconfig.cache
+E:\Studies\Projects\CppProjects\Greedy\BurnImageDVDs\obj\Debug\net6.0\ref\BurnImageDVDs.dll

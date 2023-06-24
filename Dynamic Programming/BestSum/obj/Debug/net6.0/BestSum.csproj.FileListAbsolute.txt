@@ -1,0 +1,15 @@
+E:\Studies\Projects\CSharpProjects\Algorithms\Dynamic Programming\BestSum\bin\Debug\net6.0\BestSum.exe
+E:\Studies\Projects\CSharpProjects\Algorithms\Dynamic Programming\BestSum\bin\Debug\net6.0\BestSum.deps.json
+E:\Studies\Projects\CSharpProjects\Algorithms\Dynamic Programming\BestSum\bin\Debug\net6.0\BestSum.runtimeconfig.json
+E:\Studies\Projects\CSharpProjects\Algorithms\Dynamic Programming\BestSum\bin\Debug\net6.0\BestSum.dll
+E:\Studies\Projects\CSharpProjects\Algorithms\Dynamic Programming\BestSum\bin\Debug\net6.0\BestSum.pdb
+E:\Studies\Projects\CSharpProjects\Algorithms\Dynamic Programming\BestSum\obj\Debug\net6.0\BestSum.csproj.AssemblyReference.cache
+E:\Studies\Projects\CSharpProjects\Algorithms\Dynamic Programming\BestSum\obj\Debug\net6.0\BestSum.GeneratedMSBuildEditorConfig.editorconfig
+E:\Studies\Projects\CSharpProjects\Algorithms\Dynamic Programming\BestSum\obj\Debug\net6.0\BestSum.AssemblyInfoInputs.cache
+E:\Studies\Projects\CSharpProjects\Algorithms\Dynamic Programming\BestSum\obj\Debug\net6.0\BestSum.AssemblyInfo.cs
+E:\Studies\Projects\CSharpProjects\Algorithms\Dynamic Programming\BestSum\obj\Debug\net6.0\BestSum.csproj.CoreCompileInputs.cache
+E:\Studies\Projects\CSharpProjects\Algorithms\Dynamic Programming\BestSum\obj\Debug\net6.0\BestSum.dll
+E:\Studies\Projects\CSharpProjects\Algorithms\Dynamic Programming\BestSum\obj\Debug\net6.0\refint\BestSum.dll
+E:\Studies\Projects\CSharpProjects\Algorithms\Dynamic Programming\BestSum\obj\Debug\net6.0\BestSum.pdb
+E:\Studies\Projects\CSharpProjects\Algorithms\Dynamic Programming\BestSum\obj\Debug\net6.0\BestSum.genruntimeconfig.cache
+E:\Studies\Projects\CSharpProjects\Algorithms\Dynamic Programming\BestSum\obj\Debug\net6.0\ref\BestSum.dll

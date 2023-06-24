@@ -1,0 +1,15 @@
+E:\Studies\Projects\CSharpProjects\Algorithms\Dynamic Programming\GridTraveler\bin\Debug\net6.0\GridTraveler.exe
+E:\Studies\Projects\CSharpProjects\Algorithms\Dynamic Programming\GridTraveler\bin\Debug\net6.0\GridTraveler.deps.json
+E:\Studies\Projects\CSharpProjects\Algorithms\Dynamic Programming\GridTraveler\bin\Debug\net6.0\GridTraveler.runtimeconfig.json
+E:\Studies\Projects\CSharpProjects\Algorithms\Dynamic Programming\GridTraveler\bin\Debug\net6.0\GridTraveler.dll
+E:\Studies\Projects\CSharpProjects\Algorithms\Dynamic Programming\GridTraveler\bin\Debug\net6.0\GridTraveler.pdb
+E:\Studies\Projects\CSharpProjects\Algorithms\Dynamic Programming\GridTraveler\obj\Debug\net6.0\GridTraveler.csproj.AssemblyReference.cache
+E:\Studies\Projects\CSharpProjects\Algorithms\Dynamic Programming\GridTraveler\obj\Debug\net6.0\GridTraveler.GeneratedMSBuildEditorConfig.editorconfig
+E:\Studies\Projects\CSharpProjects\Algorithms\Dynamic Programming\GridTraveler\obj\Debug\net6.0\GridTraveler.AssemblyInfoInputs.cache
+E:\Studies\Projects\CSharpProjects\Algorithms\Dynamic Programming\GridTraveler\obj\Debug\net6.0\GridTraveler.AssemblyInfo.cs
+E:\Studies\Projects\CSharpProjects\Algorithms\Dynamic Programming\GridTraveler\obj\Debug\net6.0\GridTraveler.csproj.CoreCompileInputs.cache
+E:\Studies\Projects\CSharpProjects\Algorithms\Dynamic Programming\GridTraveler\obj\Debug\net6.0\GridTraveler.dll
+E:\Studies\Projects\CSharpProjects\Algorithms\Dynamic Programming\GridTraveler\obj\Debug\net6.0\refint\GridTraveler.dll
+E:\Studies\Projects\CSharpProjects\Algorithms\Dynamic Programming\GridTraveler\obj\Debug\net6.0\GridTraveler.pdb
+E:\Studies\Projects\CSharpProjects\Algorithms\Dynamic Programming\GridTraveler\obj\Debug\net6.0\GridTraveler.genruntimeconfig.cache
+E:\Studies\Projects\CSharpProjects\Algorithms\Dynamic Programming\GridTraveler\obj\Debug\net6.0\ref\GridTraveler.dll

@@ -1,0 +1,15 @@
+E:\Studies\Projects\CSharpProjects\Algorithms\Dynamic Programming\CountConstruct\bin\Debug\net6.0\CountConstruct.exe
+E:\Studies\Projects\CSharpProjects\Algorithms\Dynamic Programming\CountConstruct\bin\Debug\net6.0\CountConstruct.deps.json
+E:\Studies\Projects\CSharpProjects\Algorithms\Dynamic Programming\CountConstruct\bin\Debug\net6.0\CountConstruct.runtimeconfig.json
+E:\Studies\Projects\CSharpProjects\Algorithms\Dynamic Programming\CountConstruct\bin\Debug\net6.0\CountConstruct.dll
+E:\Studies\Projects\CSharpProjects\Algorithms\Dynamic Programming\CountConstruct\bin\Debug\net6.0\CountConstruct.pdb
+E:\Studies\Projects\CSharpProjects\Algorithms\Dynamic Programming\CountConstruct\obj\Debug\net6.0\CountConstruct.csproj.AssemblyReference.cache
+E:\Studies\Projects\CSharpProjects\Algorithms\Dynamic Programming\CountConstruct\obj\Debug\net6.0\CountConstruct.GeneratedMSBuildEditorConfig.editorconfig
+E:\Studies\Projects\CSharpProjects\Algorithms\Dynamic Programming\CountConstruct\obj\Debug\net6.0\CountConstruct.AssemblyInfoInputs.cache
+E:\Studies\Projects\CSharpProjects\Algorithms\Dynamic Programming\CountConstruct\obj\Debug\net6.0\CountConstruct.AssemblyInfo.cs
+E:\Studies\Projects\CSharpProjects\Algorithms\Dynamic Programming\CountConstruct\obj\Debug\net6.0\CountConstruct.csproj.CoreCompileInputs.cache
+E:\Studies\Projects\CSharpProjects\Algorithms\Dynamic Programming\CountConstruct\obj\Debug\net6.0\CountConstruct.dll
+E:\Studies\Projects\CSharpProjects\Algorithms\Dynamic Programming\CountConstruct\obj\Debug\net6.0\refint\CountConstruct.dll
+E:\Studies\Projects\CSharpProjects\Algorithms\Dynamic Programming\CountConstruct\obj\Debug\net6.0\CountConstruct.pdb
+E:\Studies\Projects\CSharpProjects\Algorithms\Dynamic Programming\CountConstruct\obj\Debug\net6.0\CountConstruct.genruntimeconfig.cache
+E:\Studies\Projects\CSharpProjects\Algorithms\Dynamic Programming\CountConstruct\obj\Debug\net6.0\ref\CountConstruct.dll

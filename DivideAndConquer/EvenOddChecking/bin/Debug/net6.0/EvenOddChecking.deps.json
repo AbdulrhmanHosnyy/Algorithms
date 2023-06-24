@@ -1,0 +1,23 @@
+{
+  "runtimeTarget": {
+    "name": ".NETCoreApp,Version=v6.0",
+    "signature": ""
+  },
+  "compilationOptions": {},
+  "targets": {
+    ".NETCoreApp,Version=v6.0": {
+      "EvenOddChecking/1.0.0": {
+        "runtime": {
+          "EvenOddChecking.dll": {}
+        }
+      }
+    }
+  },
+  "libraries": {
+    "EvenOddChecking/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    }
+  }
+}

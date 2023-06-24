@@ -1,0 +1,15 @@
+E:\Studies\Projects\CppProjects\PoweringANumber\PoweringANumber\bin\Debug\net6.0\PoweringANumber.exe
+E:\Studies\Projects\CppProjects\PoweringANumber\PoweringANumber\bin\Debug\net6.0\PoweringANumber.deps.json
+E:\Studies\Projects\CppProjects\PoweringANumber\PoweringANumber\bin\Debug\net6.0\PoweringANumber.runtimeconfig.json
+E:\Studies\Projects\CppProjects\PoweringANumber\PoweringANumber\bin\Debug\net6.0\PoweringANumber.dll
+E:\Studies\Projects\CppProjects\PoweringANumber\PoweringANumber\bin\Debug\net6.0\PoweringANumber.pdb
+E:\Studies\Projects\CppProjects\PoweringANumber\PoweringANumber\obj\Debug\net6.0\PoweringANumber.csproj.AssemblyReference.cache
+E:\Studies\Projects\CppProjects\PoweringANumber\PoweringANumber\obj\Debug\net6.0\PoweringANumber.GeneratedMSBuildEditorConfig.editorconfig
+E:\Studies\Projects\CppProjects\PoweringANumber\PoweringANumber\obj\Debug\net6.0\PoweringANumber.AssemblyInfoInputs.cache
+E:\Studies\Projects\CppProjects\PoweringANumber\PoweringANumber\obj\Debug\net6.0\PoweringANumber.AssemblyInfo.cs
+E:\Studies\Projects\CppProjects\PoweringANumber\PoweringANumber\obj\Debug\net6.0\PoweringANumber.csproj.CoreCompileInputs.cache
+E:\Studies\Projects\CppProjects\PoweringANumber\PoweringANumber\obj\Debug\net6.0\PoweringANumber.dll
+E:\Studies\Projects\CppProjects\PoweringANumber\PoweringANumber\obj\Debug\net6.0\refint\PoweringANumber.dll
+E:\Studies\Projects\CppProjects\PoweringANumber\PoweringANumber\obj\Debug\net6.0\PoweringANumber.pdb
+E:\Studies\Projects\CppProjects\PoweringANumber\PoweringANumber\obj\Debug\net6.0\PoweringANumber.genruntimeconfig.cache
+E:\Studies\Projects\CppProjects\PoweringANumber\PoweringANumber\obj\Debug\net6.0\ref\PoweringANumber.dll

@@ -1,0 +1,15 @@
+E:\Studies\Projects\CSharpProjects\Algorithms\Greedy\BreadTransportation\bin\Debug\net6.0\BreadTransportation.exe
+E:\Studies\Projects\CSharpProjects\Algorithms\Greedy\BreadTransportation\bin\Debug\net6.0\BreadTransportation.deps.json
+E:\Studies\Projects\CSharpProjects\Algorithms\Greedy\BreadTransportation\bin\Debug\net6.0\BreadTransportation.runtimeconfig.json
+E:\Studies\Projects\CSharpProjects\Algorithms\Greedy\BreadTransportation\bin\Debug\net6.0\BreadTransportation.dll
+E:\Studies\Projects\CSharpProjects\Algorithms\Greedy\BreadTransportation\bin\Debug\net6.0\BreadTransportation.pdb
+E:\Studies\Projects\CSharpProjects\Algorithms\Greedy\BreadTransportation\obj\Debug\net6.0\BreadTransportation.csproj.AssemblyReference.cache
+E:\Studies\Projects\CSharpProjects\Algorithms\Greedy\BreadTransportation\obj\Debug\net6.0\BreadTransportation.GeneratedMSBuildEditorConfig.editorconfig
+E:\Studies\Projects\CSharpProjects\Algorithms\Greedy\BreadTransportation\obj\Debug\net6.0\BreadTransportation.AssemblyInfoInputs.cache
+E:\Studies\Projects\CSharpProjects\Algorithms\Greedy\BreadTransportation\obj\Debug\net6.0\BreadTransportation.AssemblyInfo.cs
+E:\Studies\Projects\CSharpProjects\Algorithms\Greedy\BreadTransportation\obj\Debug\net6.0\BreadTransportation.csproj.CoreCompileInputs.cache
+E:\Studies\Projects\CSharpProjects\Algorithms\Greedy\BreadTransportation\obj\Debug\net6.0\BreadTransportation.dll
+E:\Studies\Projects\CSharpProjects\Algorithms\Greedy\BreadTransportation\obj\Debug\net6.0\refint\BreadTransportation.dll
+E:\Studies\Projects\CSharpProjects\Algorithms\Greedy\BreadTransportation\obj\Debug\net6.0\BreadTransportation.pdb
+E:\Studies\Projects\CSharpProjects\Algorithms\Greedy\BreadTransportation\obj\Debug\net6.0\BreadTransportation.genruntimeconfig.cache
+E:\Studies\Projects\CSharpProjects\Algorithms\Greedy\BreadTransportation\obj\Debug\net6.0\ref\BreadTransportation.dll

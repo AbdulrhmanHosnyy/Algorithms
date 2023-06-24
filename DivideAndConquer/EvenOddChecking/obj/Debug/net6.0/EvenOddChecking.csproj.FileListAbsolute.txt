@@ -1,0 +1,15 @@
+E:\Studies\Projects\CppProjects\EvenOddChecking\EvenOddChecking\bin\Debug\net6.0\EvenOddChecking.exe
+E:\Studies\Projects\CppProjects\EvenOddChecking\EvenOddChecking\bin\Debug\net6.0\EvenOddChecking.deps.json
+E:\Studies\Projects\CppProjects\EvenOddChecking\EvenOddChecking\bin\Debug\net6.0\EvenOddChecking.runtimeconfig.json
+E:\Studies\Projects\CppProjects\EvenOddChecking\EvenOddChecking\bin\Debug\net6.0\EvenOddChecking.dll
+E:\Studies\Projects\CppProjects\EvenOddChecking\EvenOddChecking\bin\Debug\net6.0\EvenOddChecking.pdb
+E:\Studies\Projects\CppProjects\EvenOddChecking\EvenOddChecking\obj\Debug\net6.0\EvenOddChecking.csproj.AssemblyReference.cache
+E:\Studies\Projects\CppProjects\EvenOddChecking\EvenOddChecking\obj\Debug\net6.0\EvenOddChecking.GeneratedMSBuildEditorConfig.editorconfig
+E:\Studies\Projects\CppProjects\EvenOddChecking\EvenOddChecking\obj\Debug\net6.0\EvenOddChecking.AssemblyInfoInputs.cache
+E:\Studies\Projects\CppProjects\EvenOddChecking\EvenOddChecking\obj\Debug\net6.0\EvenOddChecking.AssemblyInfo.cs
+E:\Studies\Projects\CppProjects\EvenOddChecking\EvenOddChecking\obj\Debug\net6.0\EvenOddChecking.csproj.CoreCompileInputs.cache
+E:\Studies\Projects\CppProjects\EvenOddChecking\EvenOddChecking\obj\Debug\net6.0\EvenOddChecking.dll
+E:\Studies\Projects\CppProjects\EvenOddChecking\EvenOddChecking\obj\Debug\net6.0\refint\EvenOddChecking.dll
+E:\Studies\Projects\CppProjects\EvenOddChecking\EvenOddChecking\obj\Debug\net6.0\EvenOddChecking.pdb
+E:\Studies\Projects\CppProjects\EvenOddChecking\EvenOddChecking\obj\Debug\net6.0\EvenOddChecking.genruntimeconfig.cache
+E:\Studies\Projects\CppProjects\EvenOddChecking\EvenOddChecking\obj\Debug\net6.0\ref\EvenOddChecking.dll

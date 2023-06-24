@@ -1,0 +1,15 @@
+E:\Studies\Projects\CppProjects\TwoItemsWithDifferenceX\TwoItemsWithDifferenceX\bin\Debug\net6.0\TwoItemsWithDifferenceX.exe
+E:\Studies\Projects\CppProjects\TwoItemsWithDifferenceX\TwoItemsWithDifferenceX\bin\Debug\net6.0\TwoItemsWithDifferenceX.deps.json
+E:\Studies\Projects\CppProjects\TwoItemsWithDifferenceX\TwoItemsWithDifferenceX\bin\Debug\net6.0\TwoItemsWithDifferenceX.runtimeconfig.json
+E:\Studies\Projects\CppProjects\TwoItemsWithDifferenceX\TwoItemsWithDifferenceX\bin\Debug\net6.0\TwoItemsWithDifferenceX.dll
+E:\Studies\Projects\CppProjects\TwoItemsWithDifferenceX\TwoItemsWithDifferenceX\bin\Debug\net6.0\TwoItemsWithDifferenceX.pdb
+E:\Studies\Projects\CppProjects\TwoItemsWithDifferenceX\TwoItemsWithDifferenceX\obj\Debug\net6.0\TwoItemsWithDifferenceX.csproj.AssemblyReference.cache
+E:\Studies\Projects\CppProjects\TwoItemsWithDifferenceX\TwoItemsWithDifferenceX\obj\Debug\net6.0\TwoItemsWithDifferenceX.GeneratedMSBuildEditorConfig.editorconfig
+E:\Studies\Projects\CppProjects\TwoItemsWithDifferenceX\TwoItemsWithDifferenceX\obj\Debug\net6.0\TwoItemsWithDifferenceX.AssemblyInfoInputs.cache
+E:\Studies\Projects\CppProjects\TwoItemsWithDifferenceX\TwoItemsWithDifferenceX\obj\Debug\net6.0\TwoItemsWithDifferenceX.AssemblyInfo.cs
+E:\Studies\Projects\CppProjects\TwoItemsWithDifferenceX\TwoItemsWithDifferenceX\obj\Debug\net6.0\TwoItemsWithDifferenceX.csproj.CoreCompileInputs.cache
+E:\Studies\Projects\CppProjects\TwoItemsWithDifferenceX\TwoItemsWithDifferenceX\obj\Debug\net6.0\TwoItemsWithDifferenceX.dll
+E:\Studies\Projects\CppProjects\TwoItemsWithDifferenceX\TwoItemsWithDifferenceX\obj\Debug\net6.0\refint\TwoItemsWithDifferenceX.dll
+E:\Studies\Projects\CppProjects\TwoItemsWithDifferenceX\TwoItemsWithDifferenceX\obj\Debug\net6.0\TwoItemsWithDifferenceX.pdb
+E:\Studies\Projects\CppProjects\TwoItemsWithDifferenceX\TwoItemsWithDifferenceX\obj\Debug\net6.0\TwoItemsWithDifferenceX.genruntimeconfig.cache
+E:\Studies\Projects\CppProjects\TwoItemsWithDifferenceX\TwoItemsWithDifferenceX\obj\Debug\net6.0\ref\TwoItemsWithDifferenceX.dll

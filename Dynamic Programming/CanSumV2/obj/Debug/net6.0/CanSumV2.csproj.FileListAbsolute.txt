@@ -1,0 +1,15 @@
+E:\Studies\Projects\CSharpProjects\Algorithms\Dynamic Programming\CanSumV2\bin\Debug\net6.0\CanSumV2.exe
+E:\Studies\Projects\CSharpProjects\Algorithms\Dynamic Programming\CanSumV2\bin\Debug\net6.0\CanSumV2.deps.json
+E:\Studies\Projects\CSharpProjects\Algorithms\Dynamic Programming\CanSumV2\bin\Debug\net6.0\CanSumV2.runtimeconfig.json
+E:\Studies\Projects\CSharpProjects\Algorithms\Dynamic Programming\CanSumV2\bin\Debug\net6.0\CanSumV2.dll
+E:\Studies\Projects\CSharpProjects\Algorithms\Dynamic Programming\CanSumV2\bin\Debug\net6.0\CanSumV2.pdb
+E:\Studies\Projects\CSharpProjects\Algorithms\Dynamic Programming\CanSumV2\obj\Debug\net6.0\CanSumV2.csproj.AssemblyReference.cache
+E:\Studies\Projects\CSharpProjects\Algorithms\Dynamic Programming\CanSumV2\obj\Debug\net6.0\CanSumV2.GeneratedMSBuildEditorConfig.editorconfig
+E:\Studies\Projects\CSharpProjects\Algorithms\Dynamic Programming\CanSumV2\obj\Debug\net6.0\CanSumV2.AssemblyInfoInputs.cache
+E:\Studies\Projects\CSharpProjects\Algorithms\Dynamic Programming\CanSumV2\obj\Debug\net6.0\CanSumV2.AssemblyInfo.cs
+E:\Studies\Projects\CSharpProjects\Algorithms\Dynamic Programming\CanSumV2\obj\Debug\net6.0\CanSumV2.csproj.CoreCompileInputs.cache
+E:\Studies\Projects\CSharpProjects\Algorithms\Dynamic Programming\CanSumV2\obj\Debug\net6.0\CanSumV2.dll
+E:\Studies\Projects\CSharpProjects\Algorithms\Dynamic Programming\CanSumV2\obj\Debug\net6.0\refint\CanSumV2.dll
+E:\Studies\Projects\CSharpProjects\Algorithms\Dynamic Programming\CanSumV2\obj\Debug\net6.0\CanSumV2.pdb
+E:\Studies\Projects\CSharpProjects\Algorithms\Dynamic Programming\CanSumV2\obj\Debug\net6.0\CanSumV2.genruntimeconfig.cache
+E:\Studies\Projects\CSharpProjects\Algorithms\Dynamic Programming\CanSumV2\obj\Debug\net6.0\ref\CanSumV2.dll

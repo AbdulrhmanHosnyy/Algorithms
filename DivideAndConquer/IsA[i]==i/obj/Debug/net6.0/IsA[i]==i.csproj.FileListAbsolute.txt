@@ -1,0 +1,15 @@
+E:\Studies\Projects\CppProjects\IsA[i]==i\IsA[i]==i\bin\Debug\net6.0\IsA[i]==i.exe
+E:\Studies\Projects\CppProjects\IsA[i]==i\IsA[i]==i\bin\Debug\net6.0\IsA[i]==i.deps.json
+E:\Studies\Projects\CppProjects\IsA[i]==i\IsA[i]==i\bin\Debug\net6.0\IsA[i]==i.runtimeconfig.json
+E:\Studies\Projects\CppProjects\IsA[i]==i\IsA[i]==i\bin\Debug\net6.0\IsA[i]==i.dll
+E:\Studies\Projects\CppProjects\IsA[i]==i\IsA[i]==i\bin\Debug\net6.0\IsA[i]==i.pdb
+E:\Studies\Projects\CppProjects\IsA[i]==i\IsA[i]==i\obj\Debug\net6.0\IsA[i]==i.csproj.AssemblyReference.cache
+E:\Studies\Projects\CppProjects\IsA[i]==i\IsA[i]==i\obj\Debug\net6.0\IsA[i]==i.GeneratedMSBuildEditorConfig.editorconfig
+E:\Studies\Projects\CppProjects\IsA[i]==i\IsA[i]==i\obj\Debug\net6.0\IsA[i]==i.AssemblyInfoInputs.cache
+E:\Studies\Projects\CppProjects\IsA[i]==i\IsA[i]==i\obj\Debug\net6.0\IsA[i]==i.AssemblyInfo.cs
+E:\Studies\Projects\CppProjects\IsA[i]==i\IsA[i]==i\obj\Debug\net6.0\IsA[i]==i.csproj.CoreCompileInputs.cache
+E:\Studies\Projects\CppProjects\IsA[i]==i\IsA[i]==i\obj\Debug\net6.0\IsA[i]==i.dll
+E:\Studies\Projects\CppProjects\IsA[i]==i\IsA[i]==i\obj\Debug\net6.0\refint\IsA[i]==i.dll
+E:\Studies\Projects\CppProjects\IsA[i]==i\IsA[i]==i\obj\Debug\net6.0\IsA[i]==i.pdb
+E:\Studies\Projects\CppProjects\IsA[i]==i\IsA[i]==i\obj\Debug\net6.0\IsA[i]==i.genruntimeconfig.cache
+E:\Studies\Projects\CppProjects\IsA[i]==i\IsA[i]==i\obj\Debug\net6.0\ref\IsA[i]==i.dll

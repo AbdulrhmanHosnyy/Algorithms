@@ -1,0 +1,15 @@
+E:\Studies\Projects\CppProjects\TaskScheduling\TaskScheduling\bin\Debug\net6.0\TaskScheduling.exe
+E:\Studies\Projects\CppProjects\TaskScheduling\TaskScheduling\bin\Debug\net6.0\TaskScheduling.deps.json
+E:\Studies\Projects\CppProjects\TaskScheduling\TaskScheduling\bin\Debug\net6.0\TaskScheduling.runtimeconfig.json
+E:\Studies\Projects\CppProjects\TaskScheduling\TaskScheduling\bin\Debug\net6.0\TaskScheduling.dll
+E:\Studies\Projects\CppProjects\TaskScheduling\TaskScheduling\bin\Debug\net6.0\TaskScheduling.pdb
+E:\Studies\Projects\CppProjects\TaskScheduling\TaskScheduling\obj\Debug\net6.0\TaskScheduling.csproj.AssemblyReference.cache
+E:\Studies\Projects\CppProjects\TaskScheduling\TaskScheduling\obj\Debug\net6.0\TaskScheduling.GeneratedMSBuildEditorConfig.editorconfig
+E:\Studies\Projects\CppProjects\TaskScheduling\TaskScheduling\obj\Debug\net6.0\TaskScheduling.AssemblyInfoInputs.cache
+E:\Studies\Projects\CppProjects\TaskScheduling\TaskScheduling\obj\Debug\net6.0\TaskScheduling.AssemblyInfo.cs
+E:\Studies\Projects\CppProjects\TaskScheduling\TaskScheduling\obj\Debug\net6.0\TaskScheduling.csproj.CoreCompileInputs.cache
+E:\Studies\Projects\CppProjects\TaskScheduling\TaskScheduling\obj\Debug\net6.0\TaskScheduling.dll
+E:\Studies\Projects\CppProjects\TaskScheduling\TaskScheduling\obj\Debug\net6.0\refint\TaskScheduling.dll
+E:\Studies\Projects\CppProjects\TaskScheduling\TaskScheduling\obj\Debug\net6.0\TaskScheduling.pdb
+E:\Studies\Projects\CppProjects\TaskScheduling\TaskScheduling\obj\Debug\net6.0\TaskScheduling.genruntimeconfig.cache
+E:\Studies\Projects\CppProjects\TaskScheduling\TaskScheduling\obj\Debug\net6.0\ref\TaskScheduling.dll

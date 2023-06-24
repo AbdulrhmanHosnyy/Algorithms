@@ -1,0 +1,15 @@
+E:\Studies\Projects\CppProjects\UnimodalSearch\UnimodalSearch\bin\Debug\net6.0\UnimodalSearch.exe
+E:\Studies\Projects\CppProjects\UnimodalSearch\UnimodalSearch\bin\Debug\net6.0\UnimodalSearch.deps.json
+E:\Studies\Projects\CppProjects\UnimodalSearch\UnimodalSearch\bin\Debug\net6.0\UnimodalSearch.runtimeconfig.json
+E:\Studies\Projects\CppProjects\UnimodalSearch\UnimodalSearch\bin\Debug\net6.0\UnimodalSearch.dll
+E:\Studies\Projects\CppProjects\UnimodalSearch\UnimodalSearch\bin\Debug\net6.0\UnimodalSearch.pdb
+E:\Studies\Projects\CppProjects\UnimodalSearch\UnimodalSearch\obj\Debug\net6.0\UnimodalSearch.csproj.AssemblyReference.cache
+E:\Studies\Projects\CppProjects\UnimodalSearch\UnimodalSearch\obj\Debug\net6.0\UnimodalSearch.GeneratedMSBuildEditorConfig.editorconfig
+E:\Studies\Projects\CppProjects\UnimodalSearch\UnimodalSearch\obj\Debug\net6.0\UnimodalSearch.AssemblyInfoInputs.cache
+E:\Studies\Projects\CppProjects\UnimodalSearch\UnimodalSearch\obj\Debug\net6.0\UnimodalSearch.AssemblyInfo.cs
+E:\Studies\Projects\CppProjects\UnimodalSearch\UnimodalSearch\obj\Debug\net6.0\UnimodalSearch.csproj.CoreCompileInputs.cache
+E:\Studies\Projects\CppProjects\UnimodalSearch\UnimodalSearch\obj\Debug\net6.0\UnimodalSearch.dll
+E:\Studies\Projects\CppProjects\UnimodalSearch\UnimodalSearch\obj\Debug\net6.0\refint\UnimodalSearch.dll
+E:\Studies\Projects\CppProjects\UnimodalSearch\UnimodalSearch\obj\Debug\net6.0\UnimodalSearch.pdb
+E:\Studies\Projects\CppProjects\UnimodalSearch\UnimodalSearch\obj\Debug\net6.0\UnimodalSearch.genruntimeconfig.cache
+E:\Studies\Projects\CppProjects\UnimodalSearch\UnimodalSearch\obj\Debug\net6.0\ref\UnimodalSearch.dll

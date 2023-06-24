@@ -1,0 +1,15 @@
+E:\Studies\Projects\CSharpProjects\Algorithms\Greedy\ActivitySelection\bin\Debug\net6.0\ActivitySelection.exe
+E:\Studies\Projects\CSharpProjects\Algorithms\Greedy\ActivitySelection\bin\Debug\net6.0\ActivitySelection.deps.json
+E:\Studies\Projects\CSharpProjects\Algorithms\Greedy\ActivitySelection\bin\Debug\net6.0\ActivitySelection.runtimeconfig.json
+E:\Studies\Projects\CSharpProjects\Algorithms\Greedy\ActivitySelection\bin\Debug\net6.0\ActivitySelection.dll
+E:\Studies\Projects\CSharpProjects\Algorithms\Greedy\ActivitySelection\bin\Debug\net6.0\ActivitySelection.pdb
+E:\Studies\Projects\CSharpProjects\Algorithms\Greedy\ActivitySelection\obj\Debug\net6.0\ActivitySelection.csproj.AssemblyReference.cache
+E:\Studies\Projects\CSharpProjects\Algorithms\Greedy\ActivitySelection\obj\Debug\net6.0\ActivitySelection.GeneratedMSBuildEditorConfig.editorconfig
+E:\Studies\Projects\CSharpProjects\Algorithms\Greedy\ActivitySelection\obj\Debug\net6.0\ActivitySelection.AssemblyInfoInputs.cache
+E:\Studies\Projects\CSharpProjects\Algorithms\Greedy\ActivitySelection\obj\Debug\net6.0\ActivitySelection.AssemblyInfo.cs
+E:\Studies\Projects\CSharpProjects\Algorithms\Greedy\ActivitySelection\obj\Debug\net6.0\ActivitySelection.csproj.CoreCompileInputs.cache
+E:\Studies\Projects\CSharpProjects\Algorithms\Greedy\ActivitySelection\obj\Debug\net6.0\ActivitySelection.dll
+E:\Studies\Projects\CSharpProjects\Algorithms\Greedy\ActivitySelection\obj\Debug\net6.0\refint\ActivitySelection.dll
+E:\Studies\Projects\CSharpProjects\Algorithms\Greedy\ActivitySelection\obj\Debug\net6.0\ActivitySelection.pdb
+E:\Studies\Projects\CSharpProjects\Algorithms\Greedy\ActivitySelection\obj\Debug\net6.0\ActivitySelection.genruntimeconfig.cache
+E:\Studies\Projects\CSharpProjects\Algorithms\Greedy\ActivitySelection\obj\Debug\net6.0\ref\ActivitySelection.dll

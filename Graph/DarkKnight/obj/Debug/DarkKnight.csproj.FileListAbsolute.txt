@@ -1,0 +1,18 @@
+E:\COURSES\Algorithms\[1] [ALL PROBLEMS - CODE]\UNIFIED OUTPUT\GRAPH\[8] Dark Knight\[SOLUTION]\DarkKnight\bin\Debug\DarkKnight.exe.config
+E:\COURSES\Algorithms\[1] [ALL PROBLEMS - CODE]\UNIFIED OUTPUT\GRAPH\[8] Dark Knight\[SOLUTION]\DarkKnight\bin\Debug\DarkKnight.exe
+E:\COURSES\Algorithms\[1] [ALL PROBLEMS - CODE]\UNIFIED OUTPUT\GRAPH\[8] Dark Knight\[SOLUTION]\DarkKnight\bin\Debug\DarkKnight.pdb
+E:\COURSES\Algorithms\[1] [ALL PROBLEMS - CODE]\UNIFIED OUTPUT\GRAPH\[8] Dark Knight\[SOLUTION]\DarkKnight\obj\Debug\DarkKnight.exe
+E:\COURSES\Algorithms\[1] [ALL PROBLEMS - CODE]\UNIFIED OUTPUT\GRAPH\[8] Dark Knight\[SOLUTION]\DarkKnight\obj\Debug\DarkKnight.pdb
+E:\COURSES\Algorithms\[1] [ALL PROBLEMS - CODE]\UNIFIED OUTPUT\GRAPH\[8] Dark Knight\[TEMPLATE]\DarkKnight\bin\Debug\DarkKnight.exe.config
+E:\COURSES\Algorithms\[1] [ALL PROBLEMS - CODE]\UNIFIED OUTPUT\GRAPH\[8] Dark Knight\[TEMPLATE]\DarkKnight\obj\Debug\DarkKnight.exe
+E:\COURSES\Algorithms\[1] [ALL PROBLEMS - CODE]\UNIFIED OUTPUT\GRAPH\[8] Dark Knight\[TEMPLATE]\DarkKnight\obj\Debug\DarkKnight.pdb
+E:\COURSES\Algorithms\[1] [ALL PROBLEMS - CODE]\UNIFIED OUTPUT\GRAPH\[8] Dark Knight\[TEMPLATE]\DarkKnight\bin\Debug\DarkKnight.exe
+E:\COURSES\Algorithms\[1] [ALL PROBLEMS - CODE]\UNIFIED OUTPUT\GRAPH\[8] Dark Knight\[TEMPLATE]\DarkKnight\bin\Debug\DarkKnight.pdb
+E:\Studies\Projects\CSharpProjects\Algorithms\Graph\DarkKnight\bin\Debug\DarkKnight.exe.config
+E:\Studies\Projects\CSharpProjects\Algorithms\Graph\DarkKnight\bin\Debug\DarkKnight.exe
+E:\Studies\Projects\CSharpProjects\Algorithms\Graph\DarkKnight\bin\Debug\DarkKnight.pdb
+E:\Studies\Projects\CSharpProjects\Algorithms\Graph\DarkKnight\obj\Debug\DarkKnight.csproj.AssemblyReference.cache
+E:\Studies\Projects\CSharpProjects\Algorithms\Graph\DarkKnight\obj\Debug\DarkKnight.csproj.SuggestedBindingRedirects.cache
+E:\Studies\Projects\CSharpProjects\Algorithms\Graph\DarkKnight\obj\Debug\DarkKnight.csproj.CoreCompileInputs.cache
+E:\Studies\Projects\CSharpProjects\Algorithms\Graph\DarkKnight\obj\Debug\DarkKnight.exe
+E:\Studies\Projects\CSharpProjects\Algorithms\Graph\DarkKnight\obj\Debug\DarkKnight.pdb

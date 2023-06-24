@@ -1,0 +1,15 @@
+E:\Studies\Projects\CppProjects\TransformationFromAToB\TransformationFromAToB\bin\Debug\net6.0\TransformationFromAToB.exe
+E:\Studies\Projects\CppProjects\TransformationFromAToB\TransformationFromAToB\bin\Debug\net6.0\TransformationFromAToB.deps.json
+E:\Studies\Projects\CppProjects\TransformationFromAToB\TransformationFromAToB\bin\Debug\net6.0\TransformationFromAToB.runtimeconfig.json
+E:\Studies\Projects\CppProjects\TransformationFromAToB\TransformationFromAToB\bin\Debug\net6.0\TransformationFromAToB.dll
+E:\Studies\Projects\CppProjects\TransformationFromAToB\TransformationFromAToB\bin\Debug\net6.0\TransformationFromAToB.pdb
+E:\Studies\Projects\CppProjects\TransformationFromAToB\TransformationFromAToB\obj\Debug\net6.0\TransformationFromAToB.csproj.AssemblyReference.cache
+E:\Studies\Projects\CppProjects\TransformationFromAToB\TransformationFromAToB\obj\Debug\net6.0\TransformationFromAToB.GeneratedMSBuildEditorConfig.editorconfig
+E:\Studies\Projects\CppProjects\TransformationFromAToB\TransformationFromAToB\obj\Debug\net6.0\TransformationFromAToB.AssemblyInfoInputs.cache
+E:\Studies\Projects\CppProjects\TransformationFromAToB\TransformationFromAToB\obj\Debug\net6.0\TransformationFromAToB.AssemblyInfo.cs
+E:\Studies\Projects\CppProjects\TransformationFromAToB\TransformationFromAToB\obj\Debug\net6.0\TransformationFromAToB.csproj.CoreCompileInputs.cache
+E:\Studies\Projects\CppProjects\TransformationFromAToB\TransformationFromAToB\obj\Debug\net6.0\TransformationFromAToB.dll
+E:\Studies\Projects\CppProjects\TransformationFromAToB\TransformationFromAToB\obj\Debug\net6.0\refint\TransformationFromAToB.dll
+E:\Studies\Projects\CppProjects\TransformationFromAToB\TransformationFromAToB\obj\Debug\net6.0\TransformationFromAToB.pdb
+E:\Studies\Projects\CppProjects\TransformationFromAToB\TransformationFromAToB\obj\Debug\net6.0\TransformationFromAToB.genruntimeconfig.cache
+E:\Studies\Projects\CppProjects\TransformationFromAToB\TransformationFromAToB\obj\Debug\net6.0\ref\TransformationFromAToB.dll

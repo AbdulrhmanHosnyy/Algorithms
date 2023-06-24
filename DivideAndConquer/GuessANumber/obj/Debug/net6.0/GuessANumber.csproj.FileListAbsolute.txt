@@ -1,0 +1,15 @@
+E:\Studies\Projects\CppProjects\GuessANumber\GuessANumber\bin\Debug\net6.0\GuessANumber.exe
+E:\Studies\Projects\CppProjects\GuessANumber\GuessANumber\bin\Debug\net6.0\GuessANumber.deps.json
+E:\Studies\Projects\CppProjects\GuessANumber\GuessANumber\bin\Debug\net6.0\GuessANumber.runtimeconfig.json
+E:\Studies\Projects\CppProjects\GuessANumber\GuessANumber\bin\Debug\net6.0\GuessANumber.dll
+E:\Studies\Projects\CppProjects\GuessANumber\GuessANumber\bin\Debug\net6.0\GuessANumber.pdb
+E:\Studies\Projects\CppProjects\GuessANumber\GuessANumber\obj\Debug\net6.0\GuessANumber.csproj.AssemblyReference.cache
+E:\Studies\Projects\CppProjects\GuessANumber\GuessANumber\obj\Debug\net6.0\GuessANumber.GeneratedMSBuildEditorConfig.editorconfig
+E:\Studies\Projects\CppProjects\GuessANumber\GuessANumber\obj\Debug\net6.0\GuessANumber.AssemblyInfoInputs.cache
+E:\Studies\Projects\CppProjects\GuessANumber\GuessANumber\obj\Debug\net6.0\GuessANumber.AssemblyInfo.cs
+E:\Studies\Projects\CppProjects\GuessANumber\GuessANumber\obj\Debug\net6.0\GuessANumber.csproj.CoreCompileInputs.cache
+E:\Studies\Projects\CppProjects\GuessANumber\GuessANumber\obj\Debug\net6.0\GuessANumber.dll
+E:\Studies\Projects\CppProjects\GuessANumber\GuessANumber\obj\Debug\net6.0\refint\GuessANumber.dll
+E:\Studies\Projects\CppProjects\GuessANumber\GuessANumber\obj\Debug\net6.0\GuessANumber.pdb
+E:\Studies\Projects\CppProjects\GuessANumber\GuessANumber\obj\Debug\net6.0\GuessANumber.genruntimeconfig.cache
+E:\Studies\Projects\CppProjects\GuessANumber\GuessANumber\obj\Debug\net6.0\ref\GuessANumber.dll

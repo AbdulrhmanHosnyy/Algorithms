@@ -1,0 +1,15 @@
+E:\Studies\Projects\CSharpProjects\Algorithms\Dynamic Programming\BooleanCanSum\bin\Debug\net6.0\BooleanCanSum.exe
+E:\Studies\Projects\CSharpProjects\Algorithms\Dynamic Programming\BooleanCanSum\bin\Debug\net6.0\BooleanCanSum.deps.json
+E:\Studies\Projects\CSharpProjects\Algorithms\Dynamic Programming\BooleanCanSum\bin\Debug\net6.0\BooleanCanSum.runtimeconfig.json
+E:\Studies\Projects\CSharpProjects\Algorithms\Dynamic Programming\BooleanCanSum\bin\Debug\net6.0\BooleanCanSum.dll
+E:\Studies\Projects\CSharpProjects\Algorithms\Dynamic Programming\BooleanCanSum\bin\Debug\net6.0\BooleanCanSum.pdb
+E:\Studies\Projects\CSharpProjects\Algorithms\Dynamic Programming\BooleanCanSum\obj\Debug\net6.0\BooleanCanSum.csproj.AssemblyReference.cache
+E:\Studies\Projects\CSharpProjects\Algorithms\Dynamic Programming\BooleanCanSum\obj\Debug\net6.0\BooleanCanSum.GeneratedMSBuildEditorConfig.editorconfig
+E:\Studies\Projects\CSharpProjects\Algorithms\Dynamic Programming\BooleanCanSum\obj\Debug\net6.0\BooleanCanSum.AssemblyInfoInputs.cache
+E:\Studies\Projects\CSharpProjects\Algorithms\Dynamic Programming\BooleanCanSum\obj\Debug\net6.0\BooleanCanSum.AssemblyInfo.cs
+E:\Studies\Projects\CSharpProjects\Algorithms\Dynamic Programming\BooleanCanSum\obj\Debug\net6.0\BooleanCanSum.csproj.CoreCompileInputs.cache
+E:\Studies\Projects\CSharpProjects\Algorithms\Dynamic Programming\BooleanCanSum\obj\Debug\net6.0\BooleanCanSum.dll
+E:\Studies\Projects\CSharpProjects\Algorithms\Dynamic Programming\BooleanCanSum\obj\Debug\net6.0\refint\BooleanCanSum.dll
+E:\Studies\Projects\CSharpProjects\Algorithms\Dynamic Programming\BooleanCanSum\obj\Debug\net6.0\BooleanCanSum.pdb
+E:\Studies\Projects\CSharpProjects\Algorithms\Dynamic Programming\BooleanCanSum\obj\Debug\net6.0\BooleanCanSum.genruntimeconfig.cache
+E:\Studies\Projects\CSharpProjects\Algorithms\Dynamic Programming\BooleanCanSum\obj\Debug\net6.0\ref\BooleanCanSum.dll

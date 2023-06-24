@@ -1,0 +1,15 @@
+E:\Studies\Projects\CppProjects\Greedy\DividingCoins\bin\Debug\net6.0\DividingCoins.exe
+E:\Studies\Projects\CppProjects\Greedy\DividingCoins\bin\Debug\net6.0\DividingCoins.deps.json
+E:\Studies\Projects\CppProjects\Greedy\DividingCoins\bin\Debug\net6.0\DividingCoins.runtimeconfig.json
+E:\Studies\Projects\CppProjects\Greedy\DividingCoins\bin\Debug\net6.0\DividingCoins.dll
+E:\Studies\Projects\CppProjects\Greedy\DividingCoins\bin\Debug\net6.0\DividingCoins.pdb
+E:\Studies\Projects\CppProjects\Greedy\DividingCoins\obj\Debug\net6.0\DividingCoins.csproj.AssemblyReference.cache
+E:\Studies\Projects\CppProjects\Greedy\DividingCoins\obj\Debug\net6.0\DividingCoins.GeneratedMSBuildEditorConfig.editorconfig
+E:\Studies\Projects\CppProjects\Greedy\DividingCoins\obj\Debug\net6.0\DividingCoins.AssemblyInfoInputs.cache
+E:\Studies\Projects\CppProjects\Greedy\DividingCoins\obj\Debug\net6.0\DividingCoins.AssemblyInfo.cs
+E:\Studies\Projects\CppProjects\Greedy\DividingCoins\obj\Debug\net6.0\DividingCoins.csproj.CoreCompileInputs.cache
+E:\Studies\Projects\CppProjects\Greedy\DividingCoins\obj\Debug\net6.0\DividingCoins.dll
+E:\Studies\Projects\CppProjects\Greedy\DividingCoins\obj\Debug\net6.0\refint\DividingCoins.dll
+E:\Studies\Projects\CppProjects\Greedy\DividingCoins\obj\Debug\net6.0\DividingCoins.pdb
+E:\Studies\Projects\CppProjects\Greedy\DividingCoins\obj\Debug\net6.0\DividingCoins.genruntimeconfig.cache
+E:\Studies\Projects\CppProjects\Greedy\DividingCoins\obj\Debug\net6.0\ref\DividingCoins.dll

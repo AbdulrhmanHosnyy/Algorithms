@@ -1,0 +1,15 @@
+E:\Studies\Projects\CSharpProjects\Algorithms\Greedy\CandyAndSugarRush\bin\Debug\net6.0\CandyAndSugarRush.exe
+E:\Studies\Projects\CSharpProjects\Algorithms\Greedy\CandyAndSugarRush\bin\Debug\net6.0\CandyAndSugarRush.deps.json
+E:\Studies\Projects\CSharpProjects\Algorithms\Greedy\CandyAndSugarRush\bin\Debug\net6.0\CandyAndSugarRush.runtimeconfig.json
+E:\Studies\Projects\CSharpProjects\Algorithms\Greedy\CandyAndSugarRush\bin\Debug\net6.0\CandyAndSugarRush.dll
+E:\Studies\Projects\CSharpProjects\Algorithms\Greedy\CandyAndSugarRush\bin\Debug\net6.0\CandyAndSugarRush.pdb
+E:\Studies\Projects\CSharpProjects\Algorithms\Greedy\CandyAndSugarRush\obj\Debug\net6.0\CandyAndSugarRush.csproj.AssemblyReference.cache
+E:\Studies\Projects\CSharpProjects\Algorithms\Greedy\CandyAndSugarRush\obj\Debug\net6.0\CandyAndSugarRush.GeneratedMSBuildEditorConfig.editorconfig
+E:\Studies\Projects\CSharpProjects\Algorithms\Greedy\CandyAndSugarRush\obj\Debug\net6.0\CandyAndSugarRush.AssemblyInfoInputs.cache
+E:\Studies\Projects\CSharpProjects\Algorithms\Greedy\CandyAndSugarRush\obj\Debug\net6.0\CandyAndSugarRush.AssemblyInfo.cs
+E:\Studies\Projects\CSharpProjects\Algorithms\Greedy\CandyAndSugarRush\obj\Debug\net6.0\CandyAndSugarRush.csproj.CoreCompileInputs.cache
+E:\Studies\Projects\CSharpProjects\Algorithms\Greedy\CandyAndSugarRush\obj\Debug\net6.0\CandyAndSugarRush.dll
+E:\Studies\Projects\CSharpProjects\Algorithms\Greedy\CandyAndSugarRush\obj\Debug\net6.0\refint\CandyAndSugarRush.dll
+E:\Studies\Projects\CSharpProjects\Algorithms\Greedy\CandyAndSugarRush\obj\Debug\net6.0\CandyAndSugarRush.pdb
+E:\Studies\Projects\CSharpProjects\Algorithms\Greedy\CandyAndSugarRush\obj\Debug\net6.0\CandyAndSugarRush.genruntimeconfig.cache
+E:\Studies\Projects\CSharpProjects\Algorithms\Greedy\CandyAndSugarRush\obj\Debug\net6.0\ref\CandyAndSugarRush.dll

@@ -1,0 +1,15 @@
+E:\Studies\Projects\CppProjects\Greedy\ParentsGift\bin\Debug\net6.0\ParentsGift.exe
+E:\Studies\Projects\CppProjects\Greedy\ParentsGift\bin\Debug\net6.0\ParentsGift.deps.json
+E:\Studies\Projects\CppProjects\Greedy\ParentsGift\bin\Debug\net6.0\ParentsGift.runtimeconfig.json
+E:\Studies\Projects\CppProjects\Greedy\ParentsGift\bin\Debug\net6.0\ParentsGift.dll
+E:\Studies\Projects\CppProjects\Greedy\ParentsGift\bin\Debug\net6.0\ParentsGift.pdb
+E:\Studies\Projects\CppProjects\Greedy\ParentsGift\obj\Debug\net6.0\ParentsGift.csproj.AssemblyReference.cache
+E:\Studies\Projects\CppProjects\Greedy\ParentsGift\obj\Debug\net6.0\ParentsGift.GeneratedMSBuildEditorConfig.editorconfig
+E:\Studies\Projects\CppProjects\Greedy\ParentsGift\obj\Debug\net6.0\ParentsGift.AssemblyInfoInputs.cache
+E:\Studies\Projects\CppProjects\Greedy\ParentsGift\obj\Debug\net6.0\ParentsGift.AssemblyInfo.cs
+E:\Studies\Projects\CppProjects\Greedy\ParentsGift\obj\Debug\net6.0\ParentsGift.csproj.CoreCompileInputs.cache
+E:\Studies\Projects\CppProjects\Greedy\ParentsGift\obj\Debug\net6.0\ParentsGift.dll
+E:\Studies\Projects\CppProjects\Greedy\ParentsGift\obj\Debug\net6.0\refint\ParentsGift.dll
+E:\Studies\Projects\CppProjects\Greedy\ParentsGift\obj\Debug\net6.0\ParentsGift.pdb
+E:\Studies\Projects\CppProjects\Greedy\ParentsGift\obj\Debug\net6.0\ParentsGift.genruntimeconfig.cache
+E:\Studies\Projects\CppProjects\Greedy\ParentsGift\obj\Debug\net6.0\ref\ParentsGift.dll

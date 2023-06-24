@@ -1,0 +1,15 @@
+E:\Studies\Projects\CppProjects\Dynamic Programming\AssemblyLineScheduling\bin\Debug\net6.0\AssemblyLineScheduling.exe
+E:\Studies\Projects\CppProjects\Dynamic Programming\AssemblyLineScheduling\bin\Debug\net6.0\AssemblyLineScheduling.deps.json
+E:\Studies\Projects\CppProjects\Dynamic Programming\AssemblyLineScheduling\bin\Debug\net6.0\AssemblyLineScheduling.runtimeconfig.json
+E:\Studies\Projects\CppProjects\Dynamic Programming\AssemblyLineScheduling\bin\Debug\net6.0\AssemblyLineScheduling.dll
+E:\Studies\Projects\CppProjects\Dynamic Programming\AssemblyLineScheduling\bin\Debug\net6.0\AssemblyLineScheduling.pdb
+E:\Studies\Projects\CppProjects\Dynamic Programming\AssemblyLineScheduling\obj\Debug\net6.0\AssemblyLineScheduling.csproj.AssemblyReference.cache
+E:\Studies\Projects\CppProjects\Dynamic Programming\AssemblyLineScheduling\obj\Debug\net6.0\AssemblyLineScheduling.GeneratedMSBuildEditorConfig.editorconfig
+E:\Studies\Projects\CppProjects\Dynamic Programming\AssemblyLineScheduling\obj\Debug\net6.0\AssemblyLineScheduling.AssemblyInfoInputs.cache
+E:\Studies\Projects\CppProjects\Dynamic Programming\AssemblyLineScheduling\obj\Debug\net6.0\AssemblyLineScheduling.AssemblyInfo.cs
+E:\Studies\Projects\CppProjects\Dynamic Programming\AssemblyLineScheduling\obj\Debug\net6.0\AssemblyLineScheduling.csproj.CoreCompileInputs.cache
+E:\Studies\Projects\CppProjects\Dynamic Programming\AssemblyLineScheduling\obj\Debug\net6.0\AssemblyLineScheduling.dll
+E:\Studies\Projects\CppProjects\Dynamic Programming\AssemblyLineScheduling\obj\Debug\net6.0\refint\AssemblyLineScheduling.dll
+E:\Studies\Projects\CppProjects\Dynamic Programming\AssemblyLineScheduling\obj\Debug\net6.0\AssemblyLineScheduling.pdb
+E:\Studies\Projects\CppProjects\Dynamic Programming\AssemblyLineScheduling\obj\Debug\net6.0\AssemblyLineScheduling.genruntimeconfig.cache
+E:\Studies\Projects\CppProjects\Dynamic Programming\AssemblyLineScheduling\obj\Debug\net6.0\ref\AssemblyLineScheduling.dll

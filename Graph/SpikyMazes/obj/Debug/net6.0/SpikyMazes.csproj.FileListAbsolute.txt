@@ -1,0 +1,15 @@
+E:\Studies\Projects\CppProjects\SpikyMazes\SpikyMazes\obj\Debug\net6.0\SpikyMazes.csproj.AssemblyReference.cache
+E:\Studies\Projects\CppProjects\SpikyMazes\SpikyMazes\obj\Debug\net6.0\SpikyMazes.GeneratedMSBuildEditorConfig.editorconfig
+E:\Studies\Projects\CppProjects\SpikyMazes\SpikyMazes\obj\Debug\net6.0\SpikyMazes.AssemblyInfoInputs.cache
+E:\Studies\Projects\CppProjects\SpikyMazes\SpikyMazes\obj\Debug\net6.0\SpikyMazes.AssemblyInfo.cs
+E:\Studies\Projects\CppProjects\SpikyMazes\SpikyMazes\obj\Debug\net6.0\SpikyMazes.csproj.CoreCompileInputs.cache
+E:\Studies\Projects\CppProjects\SpikyMazes\SpikyMazes\bin\Debug\net6.0\SpikyMazes.exe
+E:\Studies\Projects\CppProjects\SpikyMazes\SpikyMazes\bin\Debug\net6.0\SpikyMazes.deps.json
+E:\Studies\Projects\CppProjects\SpikyMazes\SpikyMazes\bin\Debug\net6.0\SpikyMazes.runtimeconfig.json
+E:\Studies\Projects\CppProjects\SpikyMazes\SpikyMazes\bin\Debug\net6.0\SpikyMazes.dll
+E:\Studies\Projects\CppProjects\SpikyMazes\SpikyMazes\bin\Debug\net6.0\SpikyMazes.pdb
+E:\Studies\Projects\CppProjects\SpikyMazes\SpikyMazes\obj\Debug\net6.0\SpikyMazes.dll
+E:\Studies\Projects\CppProjects\SpikyMazes\SpikyMazes\obj\Debug\net6.0\refint\SpikyMazes.dll
+E:\Studies\Projects\CppProjects\SpikyMazes\SpikyMazes\obj\Debug\net6.0\SpikyMazes.pdb
+E:\Studies\Projects\CppProjects\SpikyMazes\SpikyMazes\obj\Debug\net6.0\SpikyMazes.genruntimeconfig.cache
+E:\Studies\Projects\CppProjects\SpikyMazes\SpikyMazes\obj\Debug\net6.0\ref\SpikyMazes.dll
